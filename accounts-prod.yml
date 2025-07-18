@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts microservice production APIs"
+  message: "Welcome to accounts microservice prod APIs"
   contactDetails:
     name: "Roshan - Product"
     email: "{cipher}a2d3a31b5bd28cce1cd5c1b6bbc2999a2ed5eb13e56b69c5dae536a13cbef15c3aaf8303865968ddf7b9d71894735156"
